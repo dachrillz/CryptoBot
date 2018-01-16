@@ -6,8 +6,13 @@ import sys
 
 if __name__ == '__main__':
 
-    name_of_data = 'example_data.txt' #File name for data file from data folder.
-    strategy_name = 'testStrategy2' #File name for strategy in strategy folder.
+    if(len(sys.argv) < 2):
+        sys.exit("Please input: python3 main.py datafile.txt strategy-file \n "
+                 "Example: python3 main.py example_data.txt testStrategy")
+
+
+    name_of_data = sys.argv[1] #'example_data.txt' #File name for data file from data folder.
+    strategy_name = sys.argv[2] # 'testStrategy2' #File name for strategy in strategy folder.
     strategy_path = 'strategies.' + strategy_name
 
     #Get the correct strategy based on string input @TODO: Document that the name of the class has to be same as the file name.
