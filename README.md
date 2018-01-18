@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dachrillz/CryptoBot.svg?branch=master)](https://travis-ci.org/dachrillz/CryptoBot)
+
 # CryptoBot
 
 # Scrum/backlog stories
