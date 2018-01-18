@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/dachrillz/CryptoBot.svg?branch=master)](https://travis-ci.org/dachrillz/CryptoBot)
+[![codecov](https://codecov.io/gh/dachrillz/CryptoBot/branch/master/graph/badge.svg)](https://codecov.io/gh/dachrillz/CryptoBot)
 
 # CryptoBot
 
