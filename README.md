@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/dachrillz/CryptoBot.svg?branch=master)](https://travis-ci.org/dachrillz/CryptoBot)
 
+.. image:: https://codecov.io/gh/codecov/example-python/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/codecov/example-python
+
 # CryptoBot
 
 # Scrum/backlog stories
