@@ -1,0 +1,3 @@
+backtrader==1.9.59.122
+matplotlib==1.5.1
+
